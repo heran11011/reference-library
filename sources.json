@@ -131,6 +131,18 @@
       "branch": "main",
       "commit": "b5e13ffe62ade3b460eab4e926c08848368d90ef",
       "licenseNote": "README 声称 MIT，但固定提交中未发现 LICENSE 文件，复用或再分发前需确认许可"
+    },
+    {
+      "category": "engineering",
+      "name": "claude-mem",
+      "path": "engineering/claude-mem",
+      "fork": "heran11011/claude-mem",
+      "upstream": "thedotmack/claude-mem",
+      "description": "自动跨会话记忆与检索，采集提示词和工具记录并触发额外观察模型调用，未安装接入",
+      "branch": "main",
+      "commit": "3d1aa47ec6406c88a76bf9289c4a4248282303e6",
+      "version": "15.19.0",
+      "license": "Apache-2.0"
     }
   ]
 }

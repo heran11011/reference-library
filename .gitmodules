@@ -50,3 +50,7 @@
 	path = design/prism
 	url = https://github.com/heran11011/PRISM-collect-your-inspo.git
 	branch = main
+[submodule "engineering/claude-mem"]
+	path = engineering/claude-mem
+	url = https://github.com/heran11011/claude-mem.git
+	branch = main

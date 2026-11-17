@@ -2,7 +2,7 @@
 
 按用途收纳值得学习和复用的资料，方便查找设计方法、内容工具、Agent 教程、需求模板和模型管理工具。
 
-目前收录 **14 项资料：13 个公开项目 + 1 份 PDF**。每项都有直达链接和一句话介绍；详细使用建议与风险说明放在各分类目录。
+目前收录 **15 项资料：14 个公开项目 + 1 份 PDF**。每项都有直达链接和一句话介绍；详细使用建议与风险说明放在各分类目录。
 
 ## 分类导航
 
@@ -10,7 +10,7 @@
 |---|---:|---|
 | [设计与界面](#设计与界面) | 7 | 动效、灵感拆解、材质、字体、性能、无障碍 |
 | [内容与排版](#内容与排版) | 1 | HTML、Markdown、DOCX、文档归档 |
-| [工程与 Agent](#工程与-agent) | 4 | 工具执行、权限、技能加载、上下文、需求盲点 |
+| [工程与 Agent](#工程与-agent) | 5 | 工具执行、权限、技能加载、上下文、记忆检索、需求盲点 |
 | [产品与需求](#产品与需求) | 1 | PRD、MVP、异常状态、验收标准 |
 | [模型与账号工具](#模型与账号工具) | 1 | API 路由、模型切换、已有账号、配额管理 |
 
@@ -43,6 +43,7 @@
 | [Learn Claude Code · learn-claude-code](https://github.com/heran11011/learn-claude-code) | Agent 开发教程 | 用教学源码讲解工具执行、权限审批、按需技能加载和上下文压缩，适合理解 Agent 与 Skill 背后的运行机制。 |
 | [T3 Code 中文版 · t3code-zh](https://github.com/heran11011/t3code-zh) | Agent 控制界面核查资料 | 保留 Javey-Li 的中文 fork，参考其管理本机编程 Agent 的界面与中文化方案，仅核实元数据和 README，未安装或实测。 |
 | [dsh-superagent · dsh-superagent-prototype](https://github.com/heran11011/dsh-superagent-prototype) | 自动化 Agent 原型核查资料 | 保留 Javey-Li 的好友 fork，参考其 GitHub / 飞书触发任务和部署契约，仅核实元数据和 README，未安装或实测且非正式 DeepSeek 产品。 |
+| [Claude-mem · claude-mem](https://github.com/heran11011/claude-mem) | 跨会话记忆与检索工具 | 自动提供跨会话记忆与检索，会采集提示词和工具记录并触发额外观察模型调用，仅收纳公开源码，未安装接入。 |
 | [Finding Your Unknowns · PDF](engineering/guides/claude-fable-finding-your-unknowns.pdf) | 非官方读书笔记 | 介绍如何通过盲点检查、原型、访谈、参考和实现记录，在动手前后逐步澄清需求与隐含假设。 |
 
 [分类说明与使用边界 →](engineering/) · [PDF 来源、原文与许可说明 →](engineering/guides/)

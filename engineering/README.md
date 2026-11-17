@@ -7,6 +7,7 @@
 | [learn-claude-code](learn-claude-code) | 从写 skill 进阶到工具执行、权限审批、按需技能加载和上下文压缩 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) |
 | [T3 Code 中文版](t3code-zh) | 核查 Javey-Li 中文 fork 的本机编程 Agent 控制界面与中文化方案 | [Javey-Li/t3code-zh](https://github.com/Javey-Li/t3code-zh) |
 | [dsh-superagent](dsh-superagent-prototype) | 核查 Javey-Li 好友 fork 的 GitHub / 飞书任务触发与部署契约研究原型 | [Javey-Li/dsh-superagent-prototype](https://github.com/Javey-Li/dsh-superagent-prototype) |
+| [Claude-mem](claude-mem) | 自动跨会话记忆与检索，会采集提示词和工具记录并触发额外观察模型调用，未安装接入 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) |
 
 ## 阅读指南
 
@@ -24,3 +25,4 @@
 - 两项均保留 Javey-Li 的 fork，不改用其上游；各 fork 的默认分支实际提交固定在子模块和来源记录中。
 - T3 Code 中文 fork 的 README 提醒其中文 Beta 未公证，且与官方版 / Nightly 共用数据目录；不要将收纳理解为可以直接覆盖现有安装。
 - dsh-superagent 的 README 明确其为研究原型、非正式 DeepSeek 产品；GitHub / 飞书触发和自动执行涉及权限、凭证及用户数据，配置与部署需另行核查。
+- Claude-mem 收录版本为 15.19.0，采用 Apache-2.0，未安装接入；接入前需确认记录范围、存储与同步边界，以及额外观察模型调用的数据去向。
