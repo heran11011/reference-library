@@ -1,0 +1,95 @@
+{
+  "verifiedAt": "2026-11-17",
+  "items": [
+    {
+      "category": "design",
+      "name": "emil-ui-skills",
+      "path": "design/emil-ui-skills",
+      "fork": "heran11011/emil-ui-skills",
+      "upstream": "emilkowalski/skills",
+      "description": "缓动、动效评审、手机触摸与极端内容测试",
+      "branch": "main",
+      "commit": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c"
+    },
+    {
+      "category": "design",
+      "name": "cabinet",
+      "path": "design/cabinet",
+      "fork": "heran11011/cabinet",
+      "upstream": "pxx-design/cabinet",
+      "description": "把参考图拆成可迁移的设计手法",
+      "branch": "main",
+      "commit": "628019706a98e8407442a442e916aac3c1deb675"
+    },
+    {
+      "category": "design",
+      "name": "web-quality-skills",
+      "path": "design/web-quality-skills",
+      "fork": "heran11011/web-quality-skills",
+      "upstream": "addyosmani/web-quality-skills",
+      "description": "性能、布局稳定、键盘和无障碍验收",
+      "branch": "main",
+      "commit": "afa8da942115f2961fdbfa80807ea0b232ff6c00"
+    },
+    {
+      "category": "design",
+      "name": "gsap-skills",
+      "path": "design/gsap-skills",
+      "fork": "heran11011/gsap-skills",
+      "upstream": "greensock/gsap-skills",
+      "description": "GSAP 官方技能：时间线、滚动动画与性能",
+      "branch": "main",
+      "commit": "aed9cfd3277740755f6bfc1155c7aa645403b760"
+    },
+    {
+      "category": "design",
+      "name": "mengto-design-skills",
+      "path": "design/mengto-design-skills",
+      "fork": "heran11011/mengto-design-skills",
+      "upstream": "MengTo/Skills",
+      "description": "交互 demo、参考拆解、Three.js 纸张材质",
+      "branch": "main",
+      "commit": "3cc93458c4949c39a04e938ea7892a1d6d3d40bf"
+    },
+    {
+      "category": "design",
+      "name": "design-sense",
+      "path": "design/design-sense",
+      "fork": "heran11011/design-sense",
+      "upstream": "pxx-design/design-sense",
+      "description": "阅读排版、字体、留白与层级判断",
+      "branch": "main",
+      "commit": "e71a2cd6630900f4c91a22dee65d0069205e6e22"
+    },
+    {
+      "category": "content",
+      "name": "huashu-md-html",
+      "path": "content/huashu-md-html",
+      "fork": "heran11011/huashu-md-html",
+      "upstream": "alchaincyf/huashu-md-html",
+      "description": "HTML / Markdown / DOCX 内容整理流水线",
+      "branch": "main",
+      "commit": "0943f0b6ff65e014d5d9c59acf6a262fd303f839"
+    },
+    {
+      "category": "engineering",
+      "name": "learn-claude-code",
+      "path": "engineering/learn-claude-code",
+      "fork": "heran11011/learn-claude-code",
+      "upstream": "shareAI-lab/learn-claude-code",
+      "description": "Agent 工具、权限、技能加载与上下文管理教学",
+      "branch": "main",
+      "commit": "448c75bb596917ad196cc1fb7558f459c5c50fdd"
+    },
+    {
+      "category": "product",
+      "name": "prd-writer",
+      "path": "product/prd-writer",
+      "fork": "heran11011/prd-writer",
+      "upstream": "vibepm666/prd-writer",
+      "description": "PRD 评审、增量更新、MVP 与验收模板",
+      "branch": "main",
+      "commit": "3908ec2b659b37a4af9357cb71a629d103fea787"
+    }
+  ]
+}

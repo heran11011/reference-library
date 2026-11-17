@@ -1,0 +1,36 @@
+[submodule "design/emil-ui-skills"]
+	path = design/emil-ui-skills
+	url = https://github.com/heran11011/emil-ui-skills.git
+	branch = main
+[submodule "design/cabinet"]
+	path = design/cabinet
+	url = https://github.com/heran11011/cabinet.git
+	branch = main
+[submodule "design/web-quality-skills"]
+	path = design/web-quality-skills
+	url = https://github.com/heran11011/web-quality-skills.git
+	branch = main
+[submodule "design/gsap-skills"]
+	path = design/gsap-skills
+	url = https://github.com/heran11011/gsap-skills.git
+	branch = main
+[submodule "design/mengto-design-skills"]
+	path = design/mengto-design-skills
+	url = https://github.com/heran11011/mengto-design-skills.git
+	branch = main
+[submodule "design/design-sense"]
+	path = design/design-sense
+	url = https://github.com/heran11011/design-sense.git
+	branch = main
+[submodule "content/huashu-md-html"]
+	path = content/huashu-md-html
+	url = https://github.com/heran11011/huashu-md-html.git
+	branch = main
+[submodule "engineering/learn-claude-code"]
+	path = engineering/learn-claude-code
+	url = https://github.com/heran11011/learn-claude-code.git
+	branch = main
+[submodule "product/prd-writer"]
+	path = product/prd-writer
+	url = https://github.com/heran11011/prd-writer.git
+	branch = main
