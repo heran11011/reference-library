@@ -1,17 +1,18 @@
 # Reference Library · 参考资料库
 
-按用途收纳值得学习和复用的资料，方便查找设计方法、内容工具、Agent 教程和需求模板。
+按用途收纳值得学习和复用的资料，方便查找设计方法、内容工具、Agent 教程、需求模板和模型管理工具。
 
-目前收录 **10 项资料：9 个开源项目 + 1 份 PDF**。每项都有直达链接和一句话介绍；详细使用建议与风险说明放在各分类目录。
+目前收录 **14 项资料：13 个公开项目 + 1 份 PDF**。每项都有直达链接和一句话介绍；详细使用建议与风险说明放在各分类目录。
 
 ## 分类导航
 
 | 分类 | 资料数量 | 关键词 |
 |---|---:|---|
-| [设计与界面](#设计与界面) | 6 | 动效、灵感拆解、材质、字体、性能、无障碍 |
+| [设计与界面](#设计与界面) | 7 | 动效、灵感拆解、材质、字体、性能、无障碍 |
 | [内容与排版](#内容与排版) | 1 | HTML、Markdown、DOCX、文档归档 |
-| [工程与 Agent](#工程与-agent) | 2 | 工具执行、权限、技能加载、上下文、需求盲点 |
+| [工程与 Agent](#工程与-agent) | 4 | 工具执行、权限、技能加载、上下文、需求盲点 |
 | [产品与需求](#产品与需求) | 1 | PRD、MVP、异常状态、验收标准 |
+| [模型与账号工具](#模型与账号工具) | 1 | API 路由、模型切换、已有账号、配额管理 |
 
 ## 设计与界面
 
@@ -23,6 +24,7 @@
 | [GSAP Skills · gsap-skills](https://github.com/heran11011/gsap-skills) | 动画实现技能 | 提供 GSAP 时间线、多元素编排、滚动动画和性能处理的实现指导，适合复杂协同动效。 |
 | [MengTo Design Skills · mengto-design-skills](https://github.com/heran11011/mengto-design-skills) | 设计技能与交互示例 | 收录交互 demo、HTML 与录屏参考拆解及 Three.js 材质示例，适合学习纸张卷角等独立视觉实验。 |
 | [Design Sense · design-sense](https://github.com/heran11011/design-sense) | 视觉规范与设计技能 | 提供阅读列、中英文字体、留白、层级及风格规则，适合打磨长文排版与视觉一致性。 |
+| [PRISM · PRISM-collect-your-inspo](https://github.com/heran11011/PRISM-collect-your-inspo) | 视觉灵感分析工具 | 从图片或网站提取配色、字体、布局和动效并导出设计参考，README 声称 MIT 但未发现 LICENSE 文件，复用前需确认许可。 |
 
 [分类说明与使用边界 →](design/)
 
@@ -39,6 +41,8 @@
 | 资料链接 | 类型 | 一句话介绍 |
 |---|---|---|
 | [Learn Claude Code · learn-claude-code](https://github.com/heran11011/learn-claude-code) | Agent 开发教程 | 用教学源码讲解工具执行、权限审批、按需技能加载和上下文压缩，适合理解 Agent 与 Skill 背后的运行机制。 |
+| [T3 Code 中文版 · t3code-zh](https://github.com/heran11011/t3code-zh) | Agent 控制界面核查资料 | 保留 Javey-Li 的中文 fork，参考其管理本机编程 Agent 的界面与中文化方案，仅核实元数据和 README，未安装或实测。 |
+| [dsh-superagent · dsh-superagent-prototype](https://github.com/heran11011/dsh-superagent-prototype) | 自动化 Agent 原型核查资料 | 保留 Javey-Li 的好友 fork，参考其 GitHub / 飞书触发任务和部署契约，仅核实元数据和 README，未安装或实测且非正式 DeepSeek 产品。 |
 | [Finding Your Unknowns · PDF](engineering/guides/claude-fable-finding-your-unknowns.pdf) | 非官方读书笔记 | 介绍如何通过盲点检查、原型、访谈、参考和实现记录，在动手前后逐步澄清需求与隐含假设。 |
 
 [分类说明与使用边界 →](engineering/) · [PDF 来源、原文与许可说明 →](engineering/guides/)
@@ -51,11 +55,20 @@
 
 [分类说明与使用边界 →](product/)
 
+## 模型与账号工具
+
+| 资料链接 | 类型 | 一句话介绍 |
+|---|---|---|
+| [magpie](https://github.com/heran11011/magpie) | API 路由与配额管理工具 | 为已有模型服务和账号提供 API 路由、模型切换与配额管理，不会赠送会员或新增订阅额度。 |
+
+[分类说明与使用边界 →](tools/)
+
 ## 链接与版本说明
 
 - 上表的项目链接进入已 fork 到 [heran11011](https://github.com/heran11011) 的仓库，方便直接浏览。
 - 各分类目录使用 **Git 子模块** 指向固定提交，保留原作者、来源和独立更新关系，不重复复制整份源码。
 - 原项目地址、分类路径和已核查提交见 [sources.json](sources.json)；PDF 来源单独记录在 [指南目录](engineering/guides/)。
+- 2026-11-18 新增的 magpie、T3 Code 中文版、dsh-superagent 和 PRISM 仅核实公开元数据与 README，不代表完成源码安全审查。
 - 这里收纳的是不同类型的参考资源，不是一套统一的 Design System，也不表示全部已安装或实测。
 
 ## 本地使用

@@ -1,5 +1,5 @@
 {
-  "verifiedAt": "2026-11-17",
+  "verifiedAt": "2026-11-18",
   "items": [
     {
       "category": "design",
@@ -90,6 +90,47 @@
       "description": "PRD 评审、增量更新、MVP 与验收模板",
       "branch": "main",
       "commit": "3908ec2b659b37a4af9357cb71a629d103fea787"
+    },
+    {
+      "category": "tools",
+      "name": "magpie",
+      "path": "tools/magpie",
+      "fork": "heran11011/magpie",
+      "upstream": "yetone/magpie",
+      "description": "已有模型服务与账号的 API 路由、模型切换和配额管理，不赠送会员",
+      "branch": "main",
+      "commit": "b2b3d488c1de04dddfea63d3a0b8049c7518c455"
+    },
+    {
+      "category": "engineering",
+      "name": "t3code-zh",
+      "path": "engineering/t3code-zh",
+      "fork": "heran11011/t3code-zh",
+      "upstream": "Javey-Li/t3code-zh",
+      "description": "保留 Javey-Li 中文 fork 的 Agent 控制界面核查资料，未安装或实测",
+      "branch": "main",
+      "commit": "a4fac8449e707790978b1d0e18c7734c98e087a5"
+    },
+    {
+      "category": "engineering",
+      "name": "dsh-superagent-prototype",
+      "path": "engineering/dsh-superagent-prototype",
+      "fork": "heran11011/dsh-superagent-prototype",
+      "upstream": "Javey-Li/dsh-superagent-prototype",
+      "description": "保留 Javey-Li 好友 fork 的自动化 Agent 研究原型核查资料，未安装或实测",
+      "branch": "main",
+      "commit": "4cfb7a275a3e0bcaf55142b3eb14f52d6e8df923"
+    },
+    {
+      "category": "design",
+      "name": "prism",
+      "path": "design/prism",
+      "fork": "heran11011/PRISM-collect-your-inspo",
+      "upstream": "veronicaji1024/PRISM-collect-your-inspo",
+      "description": "图片与网站的视觉风格、设计系统及动效分析，导出设计参考",
+      "branch": "main",
+      "commit": "b5e13ffe62ade3b460eab4e926c08848368d90ef",
+      "licenseNote": "README 声称 MIT，但固定提交中未发现 LICENSE 文件，复用或再分发前需确认许可"
     }
   ]
 }

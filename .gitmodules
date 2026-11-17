@@ -34,3 +34,19 @@
 	path = product/prd-writer
 	url = https://github.com/heran11011/prd-writer.git
 	branch = main
+[submodule "tools/magpie"]
+	path = tools/magpie
+	url = https://github.com/heran11011/magpie.git
+	branch = main
+[submodule "engineering/t3code-zh"]
+	path = engineering/t3code-zh
+	url = https://github.com/heran11011/t3code-zh.git
+	branch = main
+[submodule "engineering/dsh-superagent-prototype"]
+	path = engineering/dsh-superagent-prototype
+	url = https://github.com/heran11011/dsh-superagent-prototype.git
+	branch = main
+[submodule "design/prism"]
+	path = design/prism
+	url = https://github.com/heran11011/PRISM-collect-your-inspo.git
+	branch = main
