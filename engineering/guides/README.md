@@ -21,3 +21,12 @@ PDF 结尾把错误结果“几乎从不”归因于模型失败，措辞比原�
 ### 版权与许可
 
 本资料属于第三方参考内容，**不适用合集仓库的 MIT 许可**。PDF 未附明确的开放再许可声明；原文及改编内容的权利仍归各自权利人，保留来源不等于获得商业使用或再分发授权。收录不代表官方背书。
+
+## 补充公开阅读链接
+
+2026-11-18 补充；以下仅列阅读链接，不新增 Git 子模块，也不计入首页的 14 项收录数量。
+
+| 阅读链接 | 说明与阅读边界 |
+|---|---|
+| [Claude Code 与 HTML：The unreasonable effectiveness of HTML](https://claude.dev/blog/using-claude-code-the-unreasonable-effectiveness-of-html/) | Claude Code 与 HTML 工作方式的阅读参考，仅收录链接，不复制正文。 |
+| [0xwhitemon 的 X 推文与长文入口](https://x.com/0xwhitemon/status/2119430401701621865) | 阅读记录：仅推文已读；关联长文需登录，尚未阅读，不据此概括长文内容。 |
